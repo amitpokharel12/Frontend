@@ -1,0 +1,43 @@
+{
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8h_BUGp_0Yxt_QUeBeMu32g4kvJ6deNMW5g&s",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "image": "https://cdn.the-scientist.com/assets/articleNo/71687/aImg/52292/62dc0501-8dda-4bd7-9ba9-fa1a9b8c7cb4-l.jpg",
+      "tags": [
+        "Pytorch",
+        "Tensorflow",
+        "Sickit-Learn",
+        "Neural Network"
+      ]
+    },
+    {
+      "title": "Quantum Machine Learning",
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Quantum_Machine_Learning.jpg",
+      "tags": [
+        "QNN",
+        "Hybrid QNN",
+        "Qiskit",
+        "QuTiP",
+        "PennyLane",
+        "TFQ"
+      ]
+    },
+    {
+      "title": "Blender",
+      "image": "https://images.hive.blog/DQmbZJaHP935VYQuVqTF629areCSvxqFb7qCEsZ2vc2F5i6/Blender%20[DblenderAVRT1.blend].jpg",
+      "tags": [
+        "3D Animation",
+        "Curve and Surface Modeling",
+        "Modifiers",
+        "3D modelling"
+      ]
+    }
+  ]
+}

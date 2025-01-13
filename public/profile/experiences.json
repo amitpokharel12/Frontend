@@ -1,0 +1,74 @@
+{
+  "experiences": [
+    {
+      "cardtitle": "Teaching Volunteer",
+      "cardsubtitle": "New Jharana Secondary Boarding School",
+      "workDescription": [
+       "I hold lessons, administered tests, assigned tasks, prepared lesson plans and graded work of around 160 student for 5 months."
+      ],
+      "dateText": "Dec 2023 to may 2024",
+      "Imgsrc":"https://scontent.fktm7-1.fna.fbcdn.net/v/t39.30808-6/442438654_1278381496452710_5486500719601436259_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=-qM_gsOmpWAQ7kNvgGlhsea&_nc_oc=Adgq_dKE4sCw2jdRYotLIEjt5hrXUs4aaPEGPTFmfeYogvVrpZ-_zQN0sl1oFfGqFlM&_nc_zt=23&_nc_ht=scontent.fktm7-1.fna&_nc_gid=AmQRmmELeWzfL5UNmYD0X_Y&oh=00_AYAq688O9MICFO1dL5n33nwLIz-JdmKb45DYTI5GzxCI2A&oe=678AAFF6"
+    },
+    {
+      "cardtitle": "Student Body President",
+      "cardsubtitle": "Landamark Academy",
+      "workDescription": [
+        " This is a leadership role and I was tasked to run assemblies, deliver speeches, and be a voice for of approximately 400 students."
+      ],
+      "dateText": " April 2019 to March 2021",
+      "Imgsrc":"https://scontent.fktm10-1.fna.fbcdn.net/v/t1.6435-9/52258627_1012198625652259_7488314547598524416_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_0QjEKK0Ch0Q7kNvgEe0ATo&_nc_oc=AdgafKuwqeC6e4_31WGlhIQ3EQ9dsYz_Xj7U21PzJZ4y8lqKSCkAIdbbASMMnsiY3dE&_nc_zt=23&_nc_ht=scontent.fktm10-1.fna&_nc_gid=AxnC0Vs2QMoFqqDvUodKQbW&oh=00_AYCmLrqYRU1sdNXPsnoZ1Nw2XhwkPF9hbkOTRTUiGIJwDw&oe=67AC3E87"
+    },
+    {
+      "cardtitle": "Community Service",
+      "cardsubtitle": "Chiranjivi Pokharel Memorial Park",
+      "workDescription": [
+       "My role involved  organizing around 300 people to participate to build a park in the community which was build to honor my father and named after him."
+   
+      ],
+      "dateText": "Jan 2020 to present",
+      "Imgsrc":"https://scontent.fktm7-1.fna.fbcdn.net/v/t1.6435-9/93028227_678650049613135_3775206292461715456_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zNWPk03O8IgQ7kNvgHXjNdr&_nc_oc=AdgT1V4clGt57ToUgzv_lVGotja3HlawfmmPQQv-IiDeHMtov3prbVP1o9Ve9Ez3hNg&_nc_zt=23&_nc_ht=scontent.fktm7-1.fna&_nc_gid=Aamc0ozVXWfYaSdiRkbihjc&oh=00_AYDbcsESAARHeoA1sQN2cuw7rPqCgxqnXRih7ZlKVocB4A&oe=67AC4E8C"
+    },
+    {
+      "cardtitle": "Volunteer",
+      "cardsubtitle": "Bagmati River Cleaning and Plantation Campaign",
+      "subtitle": "Minisry of Civil Aviation,Culture and Tourism ",
+      "workDescription": [
+      "Volunteering in cleaning campaign of Bagmati river and in trees plantation program across Kathmandu Valley. "
+      ],
+      "dateText": "Oct 2020 to April 2023",
+      "Imgsrc":"https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2016/05/Bagmati-clean-up-Bagmati.jpg"
+    },
+    {
+      "cardtitle": "Participator",
+      "cardsubtitle": "Agriculture Activities and Farming ",
+      
+      "workDescription": [
+        "Helping my mother in harvesting, cultivating, and Irrigating different crops."
+      ],
+      "dateText": "2016 to present",
+      "Imgsrc":"https://cdn.britannica.com/67/125067-050-F318A0E6/Sugarcane.jpg"
+    },
+    {
+      "cardtitle": "Aeromodelling Workshop",
+      "cardsubtitle": "Participant ",
+      "subtitle": "Tribhuvan University",
+      "workDescription": [
+        "Used XLFR-5 software to design and analyze aerodynamics. Modeled a plane's wing and tail using cardboard, applying principles of flight mechanics."
+      ],
+      "dateText": "December 2024 to December 2024",
+      "Imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVod0NrG55ckgj0TosoWXYqMEb2QdmMtpyEJ1knACbkyiMzRnO-Js1wCgC_8qJj-Kqnc&usqp=CAU"
+    },
+    {
+      "cardtitle": "Research Expreience",
+      "cardsubtitle": "Quantum State Classification Using Quantum Neural Network",
+      "subtitle": "Independent Research Work",
+      "workDescription": [
+         "Quantum entanglement, a nonclassical correlation between quantum subsystems, is fundamental to quantum information science and technologies like quantum teleportation, computing, and sensing. Since the Einstein-Podolsky-Rosen (EPR) paradox and Bell's inequality experiments, entanglement has challenged classical notions of locality, enabling high-dimensional entanglement in systems like photons and cold atoms. Its potential to revolutionize information processing necessitates deeper research into its properties and applications.",
+         "We have used a Hybrid Quantum Neural Network (QNN) to classify quantum states as entangled or not. Dataset are Simulated using Qiskit, quantum states are analyzed using features such as Flattened State, purity, and von Neumann entropy ,fidelity, eigenvalues of the partially transposed density matrix. A quantum circuit extracts key features, while classical neural layers refine the classification.",
+         "It was trained on  dataset of 100,000 quantum states, the hybrid model achieves high accuracy, with performance evaluated using training-validation loss trends, accuracy metrics, and a confusion matrix."
+      ],
+      "dateText": "August 2024 to December 2024",
+      "Imgsrc":"https://github.com/amitpokharel12/Quantum-States-Classification-using-Quantum-Machine-Learning/blob/main/download%20(3).png?raw=true"
+    }
+  ]
+}

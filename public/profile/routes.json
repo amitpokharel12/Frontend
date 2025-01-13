@@ -1,0 +1,39 @@
+{
+    "sections": [
+        {
+            "component": "Home",
+            "path": "/home",
+            "headerTitle": "Home"
+        },
+        {
+            "component": "Education",
+            "path": "/education",
+            "headerTitle": "Education"
+        },
+        {
+            "component": "Experience",
+            "path": "/experience",
+            "headerTitle": "Volunteer Work & Experience"
+        },
+        {
+            "component": "Certifications",
+            "path": "/certifications",
+            "headerTitle": "Awards & Certifications"
+        },
+        {
+            "component": "Skills",
+            "path": "/skills",
+            "headerTitle": "Skills"
+        },
+        {
+            "component": "Projects",
+            "path": "/projects",
+            "headerTitle": "Research & Projects"
+        },
+        {
+            "component": "Contact",
+            "path": "/contact",
+            "headerTitle": "Contact Me"
+        }
+    ]
+}

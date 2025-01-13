@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "image": "https://github.com/amitpokharel12/Quantum-States-Classification-using-Quantum-Machine-Learning/blob/main/download%20(3).png?raw=true",
+      "title": "Quantum Machine Learning using Hybrid-QNN",
+      "bodyText": "Utilized a Hybrid Quantum Neural Network (QNN) to classify quantum states as entangled or separable, leveraging simulated datasets and key quantum features like purity, von Neumann entropy, and fidelity. Simulated a dataset of 100,000 quantum states using Qiskit, with feature extraction performed through quantum circuits. Achieved 80% accuracy.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/amitpokharel12/Quantum-States-Classification-using-Quantum-Machine-Learning"
+        }
+      ],
+      "tags": ["Hybrid-QNN", "Qiskit"]
+    },
+    {
+      "videoUrl": "https://www.youtube.com/embed/dDjgmDxB8no",
+      "videoDetails": {
+        "width": 200,
+        "height": 200,
+        "title": "3D Animation and Modelling"
+      },
+      "title": "3D Animation and Modelling",
+      "bodyText": "Created  3D Animation Video Using Blender",
+      "tags": ["React", "Full Stack", "User Experience"]
+    }
+  ]
+}

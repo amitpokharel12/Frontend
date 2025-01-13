@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Amit Pokharel | Portfolio",
+  "icons": [
+    {
+      "src": "https://img.lovepik.com/original_origin_pic/18/06/20/286dcd06326188b5a558f3330a22adb2.png_wh300.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://img.lovepik.com/original_origin_pic/18/06/20/286dcd06326188b5a558f3330a22adb2.png_wh300.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.lovepik.com/original_origin_pic/18/06/20/286dcd06326188b5a558f3330a22adb2.png_wh300.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
