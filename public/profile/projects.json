@@ -20,8 +20,12 @@
         "title": "3D Animation and Modelling"
       },
       "title": "3D Animation and Modelling",
-      "bodyText": "Created  3D Animation Video Using Blender",
-      "tags": ["React", "Full Stack", "User Experience"]
+      "bodyText": "Created  3D Animation Videos Using Blender and Videos are on my youtube channel",
+      "links":[
+        {
+          "text": "Watch on My YouTube"
+          "href": "https://www.youtube.com/@3d2d-mq3jh"
+      "tags": ["Blender"]
     }
   ]
 }
