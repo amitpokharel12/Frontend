@@ -26,7 +26,7 @@ const Home = () => {
       <Reveal duration={3000} triggerOnce>
         <div className="homeimage">
           <img
-            src="https://scontent.fktm21-1.fna.fbcdn.net/v/t39.30808-6/472755462_1252446982708743_705169505450762670_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ij7_8MxwzmMQ7kNvgHazPA0&_nc_zt=23&_nc_ht=scontent.fktm21-1.fna&_nc_gid=A4yrqEPddWBzI6XqCwS7AKR&oh=00_AYBkSTSCLCC3kLebVEZBVHnJ1N-HOoJgujzGaNB4pMOHaQ&oe=67897B06"
+            src="https://github.com/amitpokharel12/Frontend/blob/master/472755462_1252446982708743_705169505450762670_n.jpg?raw=true"
             alt="ProfilePic"
             style={{
               width: "300px",
