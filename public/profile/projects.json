@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "image": "https://drive.google.com/file/d/1rfgiZ1q9B6Hs1OemkCMb3XB7FOnn5BU6/view?usp=sharing",
+      "image": "https://github.com/amitpokharel12/Quantum-States-Classification-using-Quantum-Machine-Learning/blob/main/image.png?raw=true",
       "title": "Quantum Machine Learning using Hybrid-QNN",
       "bodyText": "Utilized a Hybrid Quantum Neural Network (QNN) to classify quantum states as entangled or separable, leveraging simulated datasets and key quantum features like purity, von Neumann entropy, and fidelity. Simulated a dataset of 100,000 quantum states using Qiskit, with feature extraction performed through quantum circuits. Achieved 80% accuracy.",
       "links": [
